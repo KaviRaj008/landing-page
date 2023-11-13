@@ -1,0 +1,15 @@
+* {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+
+
+#intro{
+    border: 2px solid green;
+    padding: 15px;
+}
+
+#intro h1,p{
+    padding-bottom: 10px;
+}
